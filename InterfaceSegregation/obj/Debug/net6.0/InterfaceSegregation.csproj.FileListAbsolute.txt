@@ -1,0 +1,15 @@
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.AssemblyReference.cache
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfoInputs.cache
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfo.cs
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+D:\orgs\github\solidprinciples\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.exe
+D:\orgs\github\solidprinciples\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.deps.json
+D:\orgs\github\solidprinciples\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.runtimeconfig.json
+D:\orgs\github\solidprinciples\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.dll
+D:\orgs\github\solidprinciples\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.pdb
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.dll
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\refint\InterfaceSegregation.dll
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.pdb
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.genruntimeconfig.cache
+D:\orgs\github\solidprinciples\InterfaceSegregation\obj\Debug\net6.0\ref\InterfaceSegregation.dll

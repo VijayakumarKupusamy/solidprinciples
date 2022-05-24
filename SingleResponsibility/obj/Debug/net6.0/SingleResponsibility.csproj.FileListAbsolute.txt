@@ -9,7 +9,7 @@ D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\SingleRespo
 D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfo.cs
 D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.CoreCompileInputs.cache
 D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.dll
-D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\refint\SingleResponsibility.dll
 D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.pdb
 D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.genruntimeconfig.cache
 D:\orgs\github\solidprinciples\SingleResponsibility\obj\Debug\net6.0\ref\SingleResponsibility.dll
+D:\orgs\github\solidprinciples\SingleResponsibility\bin\Debug\net6.0\ref\SingleResponsibility.dll
