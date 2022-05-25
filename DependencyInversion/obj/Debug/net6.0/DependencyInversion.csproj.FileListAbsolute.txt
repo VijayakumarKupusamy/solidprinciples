@@ -1,0 +1,15 @@
+D:\orgs\github\solidprinciples\DependencyInversion\bin\Debug\net6.0\DependencyInversion.exe
+D:\orgs\github\solidprinciples\DependencyInversion\bin\Debug\net6.0\DependencyInversion.deps.json
+D:\orgs\github\solidprinciples\DependencyInversion\bin\Debug\net6.0\DependencyInversion.runtimeconfig.json
+D:\orgs\github\solidprinciples\DependencyInversion\bin\Debug\net6.0\DependencyInversion.dll
+D:\orgs\github\solidprinciples\DependencyInversion\bin\Debug\net6.0\DependencyInversion.pdb
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.csproj.AssemblyReference.cache
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.AssemblyInfoInputs.cache
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.AssemblyInfo.cs
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.csproj.CoreCompileInputs.cache
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.dll
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\refint\DependencyInversion.dll
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.pdb
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\DependencyInversion.genruntimeconfig.cache
+D:\orgs\github\solidprinciples\DependencyInversion\obj\Debug\net6.0\ref\DependencyInversion.dll
